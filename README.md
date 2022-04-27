@@ -15,4 +15,4 @@ Start analyzing spatial data for your own projects using two powerful freeware t
 
 You'll have a copy of all the data and R scripts used in the course will be provided to students for their reference and to use in their own analysis.
 
-You'll also have plenty of handy hints and tips will be provided alongside the code to prevent glitches
+You'll also have plenty of handy hints and tips will be provided alongside the code to prevent glitche
